@@ -1,0 +1,10 @@
+#summary Information Pointers
+
+= Introduction =
+
+The project is mainly managed through the LOD2 internal wiki 
+ [https://grips.punkt.at/display/LOD2/Home LOD2 confluence]
+
+The public point is [https://grips.punkt.at/display/LOD2/Home Public LOD2 confluence].
+
+Regulary parts of the project will be opened for wider public.
