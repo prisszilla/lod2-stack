@@ -3,11 +3,14 @@
 = Welcome to the LOD2 Stack documentation wiki =
 
 This wiki is divided into two parts:
-
  * user documentation covers pages which describe installation and usage issues of the whole stack as well on each individual package
  * developer documentation covers pages which describe how to add and integrate your own application to the stack
+Here is a [/p/lod2-stack/w/list complete list of all wiki pages].
+
+== User Documentation ==
 
 Here is an ordered list of applications in the stack:
+
 @ToolMaintainer: Please add your projects here ...
 
 || *Application* || *Note* || *Package ID* || *Pages* ||
@@ -15,3 +18,11 @@ Here is an ordered list of applications in the stack:
 || [http://lod2.eu/Project/Silk Silk] || ... || `silk` || ... ||
 || [http://lod2.eu/Project/Sigma Sig.ma EE] || ... || `sigmaee` || ... ||
 || [http://lod2.eu/Project/Virtuoso Virtuoso] || a Triple Store || `virtuoso-opensource` || ... ||
+
+
+== Developer Documentation ==
+
+On developer documentation, we provide the following "official" documents:
+  * [http://lod2-stack.googlecode.com/svn/trunk/documents/HowToContribute.pdf How to Contribute to the LOD2 Stack]
+
+In addition to that, feel free to edit / enhance this wiki and provide more information.
