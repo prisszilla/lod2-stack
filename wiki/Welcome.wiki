@@ -13,11 +13,11 @@ Here is an ordered list of applications in the stack:
 
 @ToolMaintainer: Please add your projects here ...
 
-|| *Application* || *Note* || *Package ID* || *Pages* ||
-|| [http://lod2.eu/Project/OntoWiki OntoWiki] || a Semantic Data Wiki || `ontowiki-virtuoso` || OntoWikiFirstSteps ||
-|| [http://lod2.eu/Project/Silk Silk] || ... || `silk` || ... ||
-|| [http://lod2.eu/Project/Sigma Sig.ma EE] || ... || `sigmaee` || ... ||
-|| [http://lod2.eu/Project/Virtuoso Virtuoso] || a Triple Store || `virtuoso-opensource` || ... ||
+|| *Application* || *Note* || *Package ID* || *Pages* || *Other Resources* ||
+|| [http://lod2.eu/Project/OntoWiki OntoWiki] || a Semantic Data Wiki || `ontowiki-virtuoso` || OntoWikiFirstSteps || [http://ontowiki.net Homepage] ||
+|| [http://lod2.eu/Project/Silk Silk] || ... || `silk` || ... || ... ||
+|| [http://lod2.eu/Project/Sigma Sig.ma EE] || ... || `sigmaee` || ... || ... ||
+|| [http://lod2.eu/Project/Virtuoso Virtuoso] || a Triple Store || `virtuoso-opensource` || ... || ... ||
 
 
 == Developer Documentation ==
