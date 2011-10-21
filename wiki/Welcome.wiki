@@ -1,6 +1,7 @@
 #summary Welcome page
 
 = [Welcome Welcome to the LOD2 Stack Documentation Wiki] =
+<wiki:toc max_depth="1" />
 
 This wiki is divided into two parts:
  * user documentation covers pages which describe installation and usage issues of the whole stack as well on each individual package
