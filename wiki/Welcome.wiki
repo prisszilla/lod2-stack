@@ -1,9 +1,7 @@
 #summary Welcome page
-
-= [Welcome Welcome to the LOD2 Stack Documentation Wiki] =
-
 <wiki:toc />
 
+= Welcome to the LOD2 Stack Documentation Wiki =
 This wiki is divided into two parts:
  * user documentation covers pages which describe installation and usage issues of the whole stack as well on each individual package
  * developer documentation covers pages which describe how to add and integrate your own application to the stack
