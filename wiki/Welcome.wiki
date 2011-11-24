@@ -15,43 +15,43 @@ In the following you will find basic descriptions of all applications in the sta
 
 "D2R Server is a tool for publishing the content of relational databases on the Semantic Web, a global information space consisting of linked data. ..." ([http://lod2.eu/Project/D2R-Server.html])
 
-* Package ID: ???
-* Documentation Resources:
-** Homepage: [http://www4.wiwiss.fu-berlin.de/bizer/d2r-server/]
+ * Package ID: ???
+ * Documentation Resources:
+   *Homepage: [http://www4.wiwiss.fu-berlin.de/bizer/d2r-server/]
 
 ==== OntoWiki ====
 
 "OntoWiki is a tool providing support for agile, distributed knowledge engineering scenarios. It facilitates the visual presentation of a knowledge base as an information map, with different views on instance data. It enables intuitive authoring of semantic content, with an inline editing mode for editing RDF content, similar to WYSIWIG for text documents. ... " ([http://lod2.eu/Project/OntoWiki])
 
-* Package ID: ontowiki-virtuoso
-* Documentation Resources
-** Wiki: [https://github.com/AKSW/OntoWiki/wiki]
-** API-Docu: [http://docs.ontowiki.net/fw/]
+ * Package ID: ontowiki-virtuoso
+ * Documentation Resources
+   * Wiki: [https://github.com/AKSW/OntoWiki/wiki]
+   * API-Docu: [http://docs.ontowiki.net/fw/]
 
 ==== SigmaEE ====
 
 "http://Sig.mais a tool to explore and leverage the Web of Data. At any time, information in Sigma is likely to come from multiple, unrelated Web sites - potentially any web site that embeds information in RDF, RDFa or Microformats (standards for the Web of Data). ..." ([http://lod2.eu/Project/Sigma])
 
-* Package ID: sigmaee
-* Documentation Resources:
-** About: [http://sig.ma/?page=sigmaee]
-** Documentation: [http://sig.ma/?page=help]
+ * Package ID: sigmaee
+ * Documentation Resources:
+   * About: [http://sig.ma/?page=sigmaee]
+   * Documentation: [http://sig.ma/?page=help]
 
 ==== Silk ====
 
 "The Silk Link Discovery Framework supports data publishers in accomplishing the second task. Using the declarative Silk - Link Specification Language (Silk-LSL), developers can specify which types of RDF links should be discovered between data sources as well as which conditions data items must fulfill in order to be interlinked. These link conditions may combine various similarity metrics and can take the graph around a data item into account, which is addressed using an RDF path language. Silk accesses the data sources that should be interlinked via the SPARQL protocol and can thus be used against local as well as remote SPARQL endpoints. ... " ([http://lod2.eu/Project/Silk])
 
-* Package ID: silk
-* Documentation Resources:
-** Homepage: [http://www4.wiwiss.fu-berlin.de/bizer/silk/]
-** Wiki: [http://www.assembla.com/spaces/silk/wiki/dg7jfup58r4jZseJe5cbLA]
+ * Package ID: silk
+ * Documentation Resources:
+   * Homepage: [http://www4.wiwiss.fu-berlin.de/bizer/silk/]
+   * Wiki: [http://www.assembla.com/spaces/silk/wiki/dg7jfup58r4jZseJe5cbLA]
 
 ==== Virtuoso
 
 "Virtuoso is an innovative industry standards compliant platform for native data, information, and knowledge management. It implements and supports a broad spectrum of query languages, data access interfaces, protocols, and data representation formats that includes: SQL, SPARQL, ODBC, JDBC, HTTP, WebDAV, XML, RDF, RDFa, and many more. ..." ([http://lod2.eu/Project/Virtuoso])
 
-* Package ID: virtuoso-opensource
-* Documentation Resources:
-** Support Site: [http://support.openlinksw.com/supportweb/]
+ * Package ID: virtuoso-opensource
+ * Documentation Resources:
+   * Support Site: [http://support.openlinksw.com/supportweb/]
 
 === Online Components ===
