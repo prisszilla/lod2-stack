@@ -65,6 +65,15 @@ In the following you will find basic descriptions of all applications in the sta
    * Homepage: [http://poolparty.biz/]
    * Documentation: [https://grips.punkt.at/display/public/POOLDOKU/PoolParty+-+Documentation]
 
+==== PoolParty Extractor ====
+
+"The PoolParty Extractor (PPX) offers an API providing text mining algorithms based on semantic knowledge models. With the PoolParty Extractor you can analyse documents in an automated fashion, extracting meaningful phrases, named entities, categories or other metadata. Different data or metadata schemas can be mapped to a SKOS thesaurus that is used as a unified semantic knowledge model."
+
+ * LOD2 Instance: [http://pilot5.poolparty.biz/]
+ * Documentation Resources:
+   * Homepage: [http://poolparty.biz/]
+
+
 ==== Spotlight ====
 
 "DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text, providing a solution for linking unstructured information sources to the Linked Open Data cloud through DBpedia. DBpedia Spotlight performs named entity extraction, including entity detection and Name Resolution (a.k.a. disambiguation). It can also be used for building your solution for Named Entity Recognition, amongst other information extraction tasks. ..." ([http://dbpedia.org/spotlight])
