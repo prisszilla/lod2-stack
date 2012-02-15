@@ -3,7 +3,7 @@
 
 Here you can find a list of applications in the LOD 2 stack and pointers to relevant documentation.
 
-Find more documentation on the LOD2 stack and it's components [http://wiki.semantic-web.at/display/LOD2DOC/Home here].
+Find more documentation on the LOD2 stack and it's components [http://lod2.semantic-web.at/display/LOD2DOC/Home here].
 
 == LOD2 Stack Applications ==
 
